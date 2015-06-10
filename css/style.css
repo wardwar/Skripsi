@@ -1,0 +1,71 @@
+#log-body
+{
+	background: #16a085;
+}
+
+#page-das
+{
+	background: #e0e0e0;
+}
+
+#margin-form
+{
+	margin-top: 10%;
+}
+
+#login
+{
+	margin-top: 20px;
+}
+
+#btn-login
+{
+	margin-right: 10px;
+}
+
+.visibility-hidden
+{
+	visibility: hidden;
+}
+
+.side-left
+{
+	position: fixed;
+	height: 100vh;
+}
+
+.top-nav
+{
+	background: #2781BC;
+}
+
+.logo-pu
+{
+	margin-top: 30px;
+}
+
+.menu 
+{
+	width: 100%;
+}
+
+.ul-menu li
+{
+	height: 45px;
+}
+.ul-menu li:hover
+{
+	background-color: rgba(0, 0, 0, 0); 
+}
+
+main
+{
+	padding-left: 240px;
+}
+
+main .card-panel
+{
+	margin: 10px;
+	min-height: 500px;
+
+}
